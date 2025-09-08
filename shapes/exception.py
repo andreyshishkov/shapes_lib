@@ -1,0 +1,2 @@
+class WrongSidesTriangleException(Exception):
+    pass
